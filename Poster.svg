@@ -14,9 +14,34 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="Poster.svg">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient5114">
+      <stop
+         style="stop-color:#ff0021;stop-opacity:0.85714287;"
+         offset="0"
+         id="stop5116" />
+      <stop
+         style="stop-color:#ff1818;stop-opacity:0.5;"
+         offset="1"
+         id="stop5118" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect2872"
+       is_visible="true"
+       pattern="m -315,-2907.6378 1,0"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 526.18109 : 1"
@@ -32,20 +57,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.2"
-     inkscape:cx="2908.2244"
-     inkscape:cy="1515.5314"
+     inkscape:zoom="0.24"
+     inkscape:cx="2853.035"
+     inkscape:cy="2477.1856"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="in"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="956"
-     inkscape:window-height="1000"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid2816"
@@ -58,15 +83,15 @@
        spacingy="0.05in" />
     <sodipodi:guide
        orientation="1,0"
-       position="2835,1710"
+       position="2835,1665"
        id="guide2818" />
     <sodipodi:guide
        orientation="0,1"
-       position="2835,3420"
+       position="2835,3330"
        id="guide2820" />
     <sodipodi:guide
        orientation="0,1"
-       position="2835,1710"
+       position="2835,1665"
        id="guide2822" />
   </sodipodi:namedview>
   <metadata
@@ -85,5 +110,46 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,2727.6378)" />
+     transform="translate(0,2727.6378)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.98999977;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 3645,-612.6378 c 0,107.93779 -21.6064,215.87735 -63.6538,315.28853 -40.5717,95.92212 -99.9449,183.82316 -173.5897,257.467945 -73.6448,73.644756 -161.5458,133.018018 -257.4678,173.589655 -1e-4,2e-5 -1e-4,3e-5 -2e-4,5e-5 -99.4111,42.04737 -207.3506,63.6538 -315.2884,63.65382 0,0 -1e-4,0 -1e-4,0 -107.9378,0 -215.8773,-21.60643 -315.2885,-63.65382 -10e-5,-2e-5 -10e-5,-3e-5 -2e-4,-5e-5 C 2423.7893,93.136693 2335.8883,33.763431 2262.2435,-39.881325 2188.5987,-113.52611 2129.2255,-201.42715 2088.6538,-297.34927 2046.6064,-396.76045 2025,-504.70001 2025,-612.6378 c 0,-107.93779 21.6064,-215.87735 63.6538,-315.28853 40.5717,-95.92207 99.9449,-183.82317 173.5897,-257.46797 73.6448,-73.6447 161.5457,-133.0179 257.4677,-173.5896 10e-5,0 2e-4,0 3e-4,-10e-5 99.4112,-42.0474 207.3507,-63.6538 315.2885,-63.6538 1e-4,0 2e-4,0 3e-4,0 107.9377,0 215.8771,21.6065 315.2882,63.6538 95.9221,40.5717 183.8232,99.9449 257.468,173.5897 73.6448,73.6448 133.018,161.5459 173.5897,257.46797 42.0474,99.41118 63.6538,207.35074 63.6538,315.28853 z"
+       id="path2845"
+       inkscape:path-effect="#path-effect2872"
+       inkscape:original-d="m 3645,-612.6378 c 0,447.3506 -362.6494,810 -810,810 -447.3506,0 -810,-362.6494 -810,-810 0,-447.3506 362.6494,-810 810,-810 447.3506,0 810,362.6494 810,810 z" />
+    <rect
+       style="fill:#e82c31;fill-opacity:0.68995631;fill-rule:nonzero;stroke:none;stroke-width:9.98999977000000072;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2892"
+       width="5670"
+       height="450"
+       x="0"
+       y="0"
+       transform="translate(0,-2727.6378)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5166"
+       style="font-size:100px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;line-height:100%"
+       transform="translate(0,-2727.6378)"><flowRegion
+         id="flowRegion5168"><rect
+           id="rect5170"
+           width="3870"
+           height="225"
+           x="900"
+           y="45"
+           style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+           ry="0" /></flowRegion><flowPara
+         id="flowPara5180">The Real-Time eXperiment Interface: a closed-loop data acquisition system with sub-millisecond latencies for electrophysiology.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5182"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+       transform="translate(0,-2727.6378)"><flowRegion
+         id="flowRegion5184"><rect
+           id="rect5186"
+           width="3150"
+           height="90"
+           x="1260"
+           y="270"
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Abyssinica SIL;-inkscape-font-specification:Abyssinica SIL"
+           ry="0" /></flowRegion><flowPara
+         id="flowPara5200">A. George1, Y. Patel2, F. Ortega1, J. White3, D. Christini1, A. Dorval3, R. Butera2; </flowPara></flowRoot>  </g>
 </svg>
